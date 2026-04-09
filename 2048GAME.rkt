@@ -1,7 +1,7 @@
 #lang racket
 (require 2htdp/image)
 (require 2htdp/universe)
-
+; prueba git
 ;; ============================================
 ;; CE2048 - Juego 2048 en Racket
 ;; ============================================
