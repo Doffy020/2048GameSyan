@@ -117,5 +117,3 @@
   (define columnas (aleatorio-entre 4 10))
   (define vacio (tablero-vacio filas columnas))
   (insertar-dos-2s-aleatorio vacio))
-
-
